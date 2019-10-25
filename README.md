@@ -1,3 +1,3 @@
-"# computer_vision" 
+# computer_vision
 
-- [yolo_v3](yolov3.md)
+- [yolo_v3](yolo_v3.md)
